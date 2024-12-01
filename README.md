@@ -34,7 +34,7 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
   
 - 🌱 I enjoy everything technology. Otherwise some hobbies i love include: Reading, Swimming, Anime/Manga and Gaming.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11/)
 
 <!--
 Here are some ideas to get you started:
