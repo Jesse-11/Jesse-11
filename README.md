@@ -25,16 +25,16 @@
 
 ---
 
-### 👨‍💻: About me:
+### 👨‍💻 About me:
 
 I am a current 3rd year Software Engineering(Honours) student studying at The University of Adelaide
-- 🔭: I am currently looking for interships oppoutunities to support and grow my career in the industry.
+- 🔭 I am currently looking for interships oppoutunities to support and grow my career in the industry.
 
-- 📖: I have an interest in Artifical Intillegence and Machine Learning, particulary in the gaming and computer sector.
+- 📖 I have an interest in Artifical Intillegence and Machine Learning, particulary in the gaming and computer sector.
   
-- 🌱: I enjoy everything technology. Otherwise some hobbies i love include: Reading, Swimming, Anime/Manga and Gaming.
+- 🌱 I enjoy everything technology. Otherwise some hobbies i love include: Reading, Swimming, Anime/Manga and Gaming.
 
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11/)
 
 <!--
 Here are some ideas to get you started:
