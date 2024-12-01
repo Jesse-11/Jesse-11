@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc5emNkbDRtYWMwcjB3bHlqcTVya3M4Y3pla3ZtMmYybmlpenhpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/> 
 
   <div id="badges">
-  <a href="https://www.linkedin.com/in/jesse11/">
+  <a href="www.linkedin.com/in/jesse11">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@CompSci-R-Us">
@@ -34,7 +34,7 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
   
 - 🌱 I enjoy everything technology. Otherwise some hobbies i love include: Reading, Swimming, Anime/Manga and Gaming.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jesse11)
 
 ---
 
