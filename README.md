@@ -13,11 +13,28 @@
 <img src="https://komarev.com/ghpvc/?username=Jesse-11&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Howdy...
+  Howdy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNxcDZ5d3dhcHQzb3pvaG5hOGFsODV1OWRqMXk5NHJ6M215NDVtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻: About me:
+
+I am a current 3rd year Software Engineering(Honours) student studying at The University of Adelaide
+- 🔭: I am currently looking for interships oppoutunities to support and grow my career in the industry.
+
+- 📖: I have an interest in Artifical Intillegence and Machine Learning, particulary in the gaming and computer sector.
+  
+- 🌱: I enjoy everything technology. Otherwise some hobbies i love include: Reading, Swimming, Anime/Manga and Gaming.
+
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11/)
 
 <!--
 Here are some ideas to get you started:
