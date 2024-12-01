@@ -54,6 +54,13 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🔥 My current Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jesse-11&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 Here are some ideas to get you started:
 
