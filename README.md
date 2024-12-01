@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc5emNkbDRtYWMwcjB3bHlqcTVya3M4Y3pla3ZtMmYybmlpenhpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/> 
+</div>
 <!--
-**Jesse-11/Jesse-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
