@@ -56,8 +56,10 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
 </div>
 
 ---
+<div align="center">
+  # What i'm currently working on!
+</div>
 
-### What i'm currently working on!
   
   ## StudiHaven 📖🧠
   StudiHaven is a all-in-one web platofrm providing students of any skill level a productive 
@@ -67,7 +69,7 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
   concepts to bring you're ideas, needs and pontetial to life!
 
 
-  # Possible features:
+  ### Possible features:
   <ul>
     <li> Study & Task Managment </li>
     <li> Group Collaboration ( Including team whiteboarding, social spaces and more )</li>
