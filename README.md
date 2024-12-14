@@ -57,36 +57,33 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
 
 ---
 
-<h1 align="center">
-  What i'm currently working on!
-</h1>
 
+### 🔋 What i'm currently working on:
 
-
+StudiHaven 📖🧠
   
-  ## StudiHaven 📖🧠
-  StudiHaven is a all-in-one web platofrm providing students of any skill level a productive 
-  and safe enviornemnt to study, revise and grow.
+StudiHaven is a all-in-one web platofrm providing students of any skill level a productive 
+and safe enviornemnt to study, revise and grow.
   <br>
-  My aim is too bridge the gap between paper and screen while utilising industry standard 
-  concepts to bring you're ideas, needs and pontetial to life!
+My aim is too bridge the gap between paper and screen while utilising industry standard 
+concepts to bring you're ideas, needs and pontetial to life!
 
 
-  ### Possible features:
-  <ul>
-    <li> Study & Task Managment </li>
-    <li> Group Collaboration ( Including team whiteboarding, social spaces and more )</li>
-    <li> Progress Tracking </li>
-    <li> Resource Managment</li>
-    <li> Reminders </li>
-    <li> ... </li>
-  </ul>
+### Possible features:
 
-  <br>
+- Study & Task Managment 
+- Group Collaboration ( Including team whiteboarding, social spaces and more )
+- Progress Tracking 
+- Resource Managment
+- Reminders 
+- ...
+- 
 
-  ## Darxi
-  Darxi is a GUI exectuable application that can track, monitor and analyse youre networking 
-  needs. Whether used by an individ, family or team; ensure youre networking
+
+Darxi
+
+Darxi is a GUI exectuable application that can track, monitor and analyse youre networking 
+needs. Whether used by an individ, family or team; ensure youre networking
 
 
 
