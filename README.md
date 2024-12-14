@@ -56,6 +56,41 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
 </div>
 
 ---
+<div>
+  <h1 align="center">
+    What i'm currently working on!
+  </h1>
+  <h2>
+    StudiHaven 📖🧠
+  </h2>
+  <p>
+    StudiHaven is a all-in-one web platofrm providing students of any skill level a productive and safe enviornemnt to study, revise and grow.
+    <br>
+    My aim is too bridge the gap between paper and screen while utilising industry standard concepts to bring you're ideas, needs and pontetial to life!
+  </p>
+
+  <h3>
+    Possible features:
+  </h3>
+  <ul>
+    <li> Study & Task Managment </li>
+    <li> Group Collaboration ( Including team whiteboarding, social spaces and more )</li>
+    <li> Progress Tracking </li>
+    <li> Resource Managment</li>
+    <li> Reminders </li>
+    <li> ... </li>
+  </ul>
+
+  <br>
+
+  <h2 >
+    Darxi
+  </h2>
+  <p>
+    Darxi is a GUI exectuable application that can track, monitor and analyse youre networking needs
+  </p>
+</div>
+
 
 ### 🔥 My current Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jesse-11&theme=dark&background=000000)](https://git.io/streak-stats)
