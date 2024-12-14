@@ -65,11 +65,12 @@ StudiHaven 📖🧠
 StudiHaven is a all-in-one web platofrm providing students of any skill level a productive 
 and safe enviornemnt to study, revise and grow.
   <br>
+  <br>
 My aim is too bridge the gap between paper and screen while utilising industry standard 
 concepts to bring you're ideas, needs and pontetial to life!
 
 
-### Possible features:
+Possible features:
 
 - Study & Task Managment 
 - Group Collaboration ( Including team whiteboarding, social spaces and more )
@@ -79,13 +80,13 @@ concepts to bring you're ideas, needs and pontetial to life!
 - ...
 - 
 
-
+<br>
 Darxi
 
 Darxi is a GUI exectuable application that can track, monitor and analyse youre networking 
 needs. Whether used by an individ, family or team; ensure youre networking
 
-
+---
 
 ### 🔥 My current Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jesse-11&theme=dark&background=000000)](https://git.io/streak-stats)
