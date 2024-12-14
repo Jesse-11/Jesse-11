@@ -56,9 +56,12 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
 </div>
 
 ---
-<div align="center">
-  # What i'm currently working on!
-</div>
+
+<h1 align="center">
+  What i'm currently working on!
+</h1>
+
+
 
   
   ## StudiHaven 📖🧠
