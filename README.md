@@ -60,31 +60,24 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
 
 ### 🔋 What i'm currently working on:
 
-StudiHaven 📖🧠
+GameProgressor 🎮
   
-StudiHaven is a all-in-one web platofrm providing students of any skill level a productive 
-and safe enviornemnt to study, revise and grow.
+[GameProgressor] is a comprehensive and centralised web app to support and display game infromation, tips, and most importatly progression guides. It focuses on the sandbox, exploration and combat genres; with current progression towards including Terraria, Minecraft, Starbound and more.
   <br>
   <br>
-My aim is too bridge the gap between paper and screen while utilising industry standard 
-concepts to bring you're ideas, needs and pontetial to life!
+My aim is to create a platform that is modern and accessible, branching from the clutter and annoyance of current competitors. Allowing users of any skill level a platform to grow and learn about their next favourite game. 
 
 
 Possible features:
 
-- Study & Task Managment 
-- Group Collaboration ( Including team whiteboarding, social spaces and more )
-- Progress Tracking 
-- Resource Managment
-- Reminders 
+- Class managment (i.e terraira-> Mage, Melee, summonor etc. )
+- User Profiles -> Progress trackers -> Awards?
+- User discussion baord? -> Community engagment built-in
+- Ai search -> trained on game specific data
+- Progression guides
+- Item information (Where and when, drop rates, damage etc. )
 - ...
-- 
 
-<br>
-Darxi
-
-Darxi is a GUI exectuable application that can track, monitor and analyse youre networking 
-needs. Whether used by an individ, family or team; ensure youre networking
 
 ---
 
