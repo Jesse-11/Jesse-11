@@ -55,34 +55,10 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-
-### 🔋 What i'm currently working on:
-
-GameProgressor 🎮
-  
-[GameProgressor] is a comprehensive and centralised web app to support and display game infromation, tips, and most importatly progression guides. It focuses on the sandbox, exploration and combat genres; with current progression towards including Terraria, Minecraft, Starbound and more.
-  <br>
-  <br>
-My aim is to create a platform that is modern and accessible, branching from the clutter and annoyance of current competitors. Allowing users of any skill level a platform to grow and learn about their next favourite game. 
-
-
-Possible features:
-
-- Class managment (i.e terraira-> Mage, Melee, summonor etc. )
-- User Profiles -> Progress trackers -> Awards?
-- User discussion baord? -> Community engagment built-in
-- Ai search -> trained on game specific data
-- Progression guides
-- Item information (Where and when, drop rates, damage etc. )
-- ...
-
 
 ---
 
 ### 🔥 My current Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jesse-11&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
