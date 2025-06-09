@@ -20,26 +20,26 @@
 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNxcDZ5d3dhcHQzb3pvaG5hOGFsODV1OWRqMXk5NHJ6M215NDVtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNxcDZ5d3dhcHQzb3pvaG5hOGFsODV1OWRqMXk5NHJ6M215NDVtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
 
 ### 👨‍💻 About me:
 
-I am a current 3rd year Software Engineering(Honours) student studying at The University of Adelaide
-- 🔭 I am currently looking for interships oppoutunities to support and grow my career in the industry.
+I am a 3rd-year Software Engineering student studying at The University of Adelaide
+- 🔭 I am currently seeking internship opportunities to support and advance my career in the industry.
 
-- 📖 I have an interest in Artifical Intillegence and Machine Learning, particulary in the gaming and computer sector.
+- 📖 I have an interest in low-level C++ -- supporting quant software applications, and Cybersecurity with a focus on the red team. 
   
-- 🌱 I enjoy everything technology. Otherwise some hobbies i love include: Reading, Swimming, Anime/Manga and Gaming.
+- 🌱 Some of my non-tech hobbies include: Reading, Golf, Anime, Gaming, and F1.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11)
 
 ---
 
 ### 🛠️ Language and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="ClusPlus" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -58,18 +58,8 @@ I am a current 3rd year Software Engineering(Honours) student studying at The Un
 
 ---
 
-### 🔥 My current Stats :
+### 🔥 Stats and Badges :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-Here are some ideas to get you started:
+<img src="https://tryhackme-badges.s3.amazonaws.com/jesse.hoppo11.png" alt="Jesse's TryHackMe Image Badge" width="" height=""/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
