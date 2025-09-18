@@ -27,12 +27,12 @@
 
 ### 👨‍💻 About me:
 
-I am a 3rd-year Software Engineering student studying at The University of Adelaide
-- 🔭 I am currently seeking internship opportunities to support and advance my career in the industry.
+I am a 3rd-year Software Engineering (honours) student studying at The University of Adelaide
+- 🔭 I am currently seeking internship or full-time opportunities.
 
-- 📖 I have an interest in low-level C++ -- supporting quant software applications, and Cybersecurity with a focus on the red team. 
+- 📖 I have an interest in low-level C++, Networking, and Cybersecurity
   
-- 🌱 Some of my non-tech hobbies include: Reading, Golf, Anime, Gaming, and F1.
+- 🌱 Some of my non-tech hobbies include: Reading, Golf, Gaming, and F1.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11)
 
