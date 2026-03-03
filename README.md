@@ -54,12 +54,3 @@ I am a 3rd-year Software Engineering (honours) student studying at The Universit
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
-
-
----
-
-### 🔥 Stats and Badges :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/jesse.hoppo11.png" alt="Jesse's TryHackMe Image Badge" width="" height=""/>
-
