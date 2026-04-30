@@ -32,7 +32,7 @@ I am a 4th-year Software Engineering (honours) student studying at The Universit
 
 - 📖 I have an interest in low-level development, Cybersecuirty and Data analysis
   
-- 🌱 Out of Software i love to read, play video-games, golf and learn. 
+- 🌱 In my spare time I love to read, game, play golf, and learn music. 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse11)
 
