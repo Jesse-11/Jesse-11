@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/jesse11">
       <img src="https://img.shields.io/badge/LinkedIn-blue?" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://your-portfolio-url.com" target="_blank">
+    <a href="https://jesse-hoppo.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-711827?" alt="Portfolio Website Badge"/>
     </a>
   </div>
