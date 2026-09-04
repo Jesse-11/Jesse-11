@@ -36,7 +36,7 @@ I am a Software Engineer who is passioante about infrastructure and observabilit
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Projects:
 
 - **[InFlow](https://inflow-demo.vercel.app/)** — Built an accounts-receivable SaaS MVP that helps small teams manage invoices, forecast payments, automate reminders, and import customer data from CSV. *Next.js, TypeScript, React, Prisma, PostgreSQL, Auth.js*
 
@@ -46,7 +46,7 @@ I am a Software Engineer who is passioante about infrastructure and observabilit
 
 ---
 
-### 💼 Experience
+### 💼 Experience:
 
 - **AEMO — Software Engineer (Intern)** — Contributed Elastic Stack/Filebeat logging infrastructure for operational visibility and built a proof-of-concept machine-learning model registry with JFrog for short-term operational forecasting workflows. *Elastic Stack, Filebeat, JFrog, Python*
 
