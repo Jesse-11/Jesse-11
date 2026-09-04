@@ -36,6 +36,26 @@ I am a Software Engineer who is passioante about infrastructure and observabilit
 
 ---
 
+### 🚀 Selected Projects
+
+- **[InFlow](https://inflow-demo.vercel.app/)** — Built an accounts-receivable SaaS MVP that helps small teams manage invoices, forecast payments, automate reminders, and import customer data from CSV. *Next.js, TypeScript, React, Prisma, PostgreSQL, Auth.js*
+
+- **[Dead Man’s Draw](https://github.com/Jesse-11/DeadMansDraw)** — Implemented a two-player terminal card game with object-oriented game-state modelling, turn and bust logic, and special card effects. *C++*
+
+- **[Marine Volunteering](https://github.com/Jesse-11/Marine-Volunteer)** ([demo](https://marine-volunteering.netlify.app/)) — Built a volunteer-event platform with login, event, user, organisation, and admin workflows backed by an Express/MySQL API. *JavaScript, Express, MySQL*
+
+---
+
+### 💼 Experience
+
+- **AEMO — Software Engineer (Intern)** — Contributed Elastic Stack/Filebeat logging infrastructure for operational visibility and built a proof-of-concept machine-learning model registry with JFrog for short-term operational forecasting workflows. *Elastic Stack, Filebeat, JFrog, Python*
+
+- **Heart Failure Information Portal** — Led Scrum delivery and developed Wagtail content models, admin workflows, and page structures for a healthcare portal proof of concept. *Django, Wagtail, Python*
+
+- **[Pyinfra open source](https://github.com/pyinfra-dev/pyinfra/pull/1853)** — Added upstream support for secret `HiddenValue` environment variables, preserving real values at runtime while masking them in logs, with typing, quoting, and test coverage. *Python, Pytest*
+
+---
+
 ### 🛠️ Tech Stack :
 <h3 align="center">Languages</h3>
 <p align="center">
