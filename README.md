@@ -36,6 +36,18 @@ I am a Software Engineer who is passioante about infrastructure and observabilit
 
 ---
 
+### 🚀 Selected Projects
+
+- **[InFlow](https://inflow-demo.vercel.app/)** — Built an accounts-receivable SaaS MVP that helps small teams manage invoices, forecast payments, automate reminders, and import customer data from CSV. *Next.js, TypeScript, React, Prisma, PostgreSQL, Auth.js*
+
+- **[Dead Man’s Draw](https://github.com/Jesse-11/DeadMansDraw)** — Implemented a two-player terminal card game with object-oriented game-state modelling, turn and bust logic, and special card effects. *C++*
+
+- **Heart Failure Information Portal** — Led agile delivery and developed content models, admin workflows, and page structures for a healthcare information portal proof of concept. *Django, Wagtail, Python*
+
+- **AEMO Operational Forecasting** — Contributed ELK logging infrastructure and a proof-of-concept machine-learning model registry using JFrog for short-term operational forecasting workflows. *ELK, JFrog, Python*
+
+---
+
 ### 🛠️ Tech Stack :
 <h3 align="center">Languages</h3>
 <p align="center">
